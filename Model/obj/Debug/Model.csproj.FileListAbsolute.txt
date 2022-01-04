@@ -1,0 +1,17 @@
+C:\Users\admin\Documents\BookShop-master\Model\bin\Debug\Model.dll.config
+C:\Users\admin\Documents\BookShop-master\Model\bin\Debug\Model.dll
+C:\Users\admin\Documents\BookShop-master\Model\bin\Debug\Model.pdb
+C:\Users\admin\Documents\BookShop-master\Model\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\BookShop-master\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\BookShop-master\Model\bin\Debug\PagedList.dll
+C:\Users\admin\Documents\BookShop-master\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\admin\Documents\BookShop-master\Model\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\BookShop-master\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\BookShop-master\Model\bin\Debug\PagedList.xml
+C:\Users\admin\Documents\BookShop-master\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\admin\Documents\BookShop-master\Model\obj\Debug\Model.Migrations.init.resources
+C:\Users\admin\Documents\BookShop-master\Model\obj\Debug\Model.csproj.GenerateResource.cache
+C:\Users\admin\Documents\BookShop-master\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\BookShop-master\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\admin\Documents\BookShop-master\Model\obj\Debug\Model.dll
+C:\Users\admin\Documents\BookShop-master\Model\obj\Debug\Model.pdb
